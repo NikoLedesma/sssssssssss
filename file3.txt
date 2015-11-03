@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 holaa
+=======
+
+noassssa
+>>>>>>> master
